@@ -48,4 +48,5 @@ function modalShow() {
         captionDelay: 250,
         captionsData: "alt",
     });
+    lightbox.refresh()
 }
